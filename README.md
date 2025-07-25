@@ -4,7 +4,7 @@ self taught computing science student <br/>
 striving to learn more  <br/>
 
 # 💫 About Me:
-🔭 currently working on improving personal skills<br>🌱 I’m currently striving to start learning java<br>⚡ i dont know what im doing
+🔭 currently working on improving personal skills<br>🌱 learning java<br>⚡ i dont know what im doing
 
 
 # 💻 Tech Stack:
